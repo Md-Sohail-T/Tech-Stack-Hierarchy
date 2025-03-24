@@ -1,6 +1,6 @@
 # 🌐 Tech-Stack-Showcase
 
-📌 Project Description
+# 📌 Project Description
 
 This project presents a structured unordered list showcasing different technologies used in web development.
 
@@ -8,7 +8,7 @@ It categorizes technologies into Front-End, Back-End, and Database sections usin
 
 
 
-🚀 Features
+# 🚀 Features
 
 ✅ Uses an unordered list with nested lists for clear categorization.
 
@@ -16,11 +16,11 @@ It categorizes technologies into Front-End, Back-End, and Database sections usin
 
 ✅ Logos/icons for better visual representation.
 
-🛠 Technologies Used
+# 🛠 Technologies Used
 
 HTML – For structuring the content.
 
-📂 Project Structure
+# 📂 Project Structure
 
 
 📁 Tech-Stack-Showcase/
@@ -33,7 +33,7 @@ HTML – For structuring the content.
 
 │── 📜 README.md     (Project documentation)
 
-🚀 How to Run the Project
+# 🚀 How to Run the Project
 
 1️⃣ Clone the repository:
 
@@ -42,7 +42,7 @@ git clone https://github.com/Md-Sohail-T/Tech-Stack-Showcase.git
 2️⃣ Open index.html in any web browser.
 
 
-📬 Contact
+# 📬 Contact
 
 📧 Email: [tadipatrimohammedsohail@gmail.com]
 
