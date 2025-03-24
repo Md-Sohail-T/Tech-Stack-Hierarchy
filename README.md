@@ -1,4 +1,4 @@
-# 🌐 Tech-Stack-Showcase
+# 🌐 Tech-Stack-Hierarchy: An Unordered List Representation
 
 # 📌 Project Description
 
