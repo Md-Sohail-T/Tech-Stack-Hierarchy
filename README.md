@@ -23,7 +23,7 @@ HTML – For structuring the content.
 # 📂 Project Structure
 
 
-📁 Tech-Stack-Showcase/
+📁 Tech-Stack-Hierarchy/
 
 │── 📁 logos/        (Contains images and logos for technologies)
 
@@ -37,7 +37,7 @@ HTML – For structuring the content.
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/Md-Sohail-T/Tech-Stack-Showcase.git
+git clone https://github.com/Md-Sohail-T/Tech-Stack-Hierarchy.git
 
 2️⃣ Open index.html in any web browser.
 
