@@ -37,7 +37,7 @@ HTML – For structuring the content.
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/your-username/Tech-Stack-Showcase.git
+git clone https://github.com/Md-Sohail-T/Tech-Stack-Showcase.git
 
 2️⃣ Open index.html in any web browser.
 
@@ -45,3 +45,4 @@ git clone https://github.com/your-username/Tech-Stack-Showcase.git
 📬 Contact
 
 📧 Email: [tadipatrimohammedsohail@gmail.com]
+
